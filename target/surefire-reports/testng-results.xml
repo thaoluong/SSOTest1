@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SSOTestAutomation.SSOTest.AppTest" duration-ms="6" started-at="2017-11-14T12:00:18Z" finished-at="2017-11-14T12:00:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="6" started-at="2017-11-14T12:00:18Z" finished-at="2017-11-14T12:00:18Z">
+    </test> <!-- Command line test -->
+  </suite> <!-- SSOTestAutomation.SSOTest.AppTest -->
+</testng-results>
